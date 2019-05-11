@@ -1,7 +1,7 @@
 const productos = [
   {
     idProducto: 1,
-    nombre: "Computadora",
+    nombre: "Computadora origin",
     urlImage: "https://cdn1.coppel.com/images/catalog/pm/2958553-1.jpg",
     precio: 600,
     stock: 6,
